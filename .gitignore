@@ -1,0 +1,11 @@
+*.json
+*.csv
+*.log
+*.xlsx
+*.bckp
+*.out
+IN-LOCAL/
+IN/
+LOCAL/
+old_captura
+
